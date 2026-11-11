@@ -6,7 +6,7 @@
 
 Skill Claude untuk latihan soal UTBK, SKD (CPNS), dan TKA. **Gratis**, tanpa syarat apa pun: tidak perlu bayar, tidak perlu tag teman, tidak perlu follow Instagram. Dibuat oleh [@mqsth](https://www.instagram.com/muqsith.ai/).
 
-> Project ini alternatif gratis, bukan pengganti bimbel. Soal dibuat dengan bantuan AI sebagai bahan latihan, bukan soal resmi UTBK/SNBT maupun CPNS. Pembahasan bisa mengandung kekeliruan, jadi cek ulang ke sumber resmi.
+> Project ini alternatif gratis, bukan pengganti bimbel. Soal dibuat dengan bantuan AI sebagai bahan latihan, bukan soal resmi UTBK/SNBT maupun CPNS. Pembahasan bisa mengandung kekeliruan, jadi cek ulang ke sumber resmi. Skoring di sini **tidak menggunakan sistem IRT (Item Response Theory)**, jadi skornya tidak sama dengan skor UTBK resmi.
 
 ---
 
@@ -97,6 +97,7 @@ Gunakan **Claude Sonnet 5.5** dengan mode **Extra**, dan **nyalakan Thinking**.
 
 - Sonnet 5.5 dipilih karena itu versi terbaru saat ini.
 - Kalau nanti ada Sonnet yang lebih baru dari 5.5, pakai yang lebih baru. Tapi tetap harus **Sonnet**, tetap mode **Extra**, dan Thinking tetap menyala.
+- **Dilarang meninggalkan halaman Claude** saat pesan dikirim dan soal sedang dibuat, sampai soalnya muncul, supaya prosesnya tidak terputus.
 
 ---
 
