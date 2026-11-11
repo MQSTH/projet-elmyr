@@ -6,7 +6,7 @@
 
 Claude skills for practicing UTBK, SKD (civil service), and TKA exam questions. **Free**, no strings attached: no payment, no tagging friends, no need to follow on Instagram. Made by [@mqsth](https://www.instagram.com/muqsith.ai/).
 
-> This project is a free alternative, not a replacement for tutoring programs. Questions are created with AI assistance for practice, and are not official UTBK/SNBT or CPNS questions. Explanations may contain mistakes, so please double-check with official sources.
+> This project is a free alternative, not a replacement for tutoring programs. Questions are created with AI assistance for practice, and are not official UTBK/SNBT or CPNS questions. Explanations may contain mistakes, so please double-check with official sources. Scoring here **does not use IRT (Item Response Theory)**, so the scores are not the same as official UTBK scores.
 
 ---
 
@@ -97,6 +97,7 @@ Use **Claude Sonnet 5.5** with **Extra** mode, and **turn on Thinking**.
 
 - Sonnet 5.5 is recommended because it is the latest version at the moment.
 - When a newer Sonnet than 5.5 is released, use the newer one. It must still be **Sonnet**, still **Extra** mode, and Thinking must stay on.
+- **Do not leave the Claude page** after sending the message while the questions are being generated, until the questions appear, so the process is not interrupted.
 
 ---
 
