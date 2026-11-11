@@ -37,9 +37,10 @@ Claude skills for practicing UTBK, SKD (civil service), and TKA exam questions. 
 ## How to Use
 
 1. Open the exam folder you want (`skills/utbk/`, `skills/skd/`, or `skills/tka/`)
-2. Download the skill folder. It contains a `SKILL.md`
-3. Upload it to Claude via **Settings > Skills**
-4. Type one of that skill's trigger phrases, for example:
+2. Pick the version for your device: `desktop/` for laptop/computer, `mobile/` for phone
+3. Download the skill folder. It contains a `SKILL.md`
+4. Upload it to Claude via **Settings > Skills**
+5. Type one of that skill's trigger phrases, for example:
 
 ```
 literasi bahasa inggris
@@ -49,7 +50,7 @@ latihan TIU
 latihan TWK
 ```
 
-> The file inside every folder is always named `SKILL.md`. What tells the skills apart is the folder name, so don't put them all into a single folder.
+> The file inside every folder is always named `SKILL.md`. What tells the skills apart is the folder name, so don't put them all into a single folder. Mobile versions end with `-mobile`. Install only one version per skill, since they share the same trigger phrases.
 
 ---
 
@@ -90,11 +91,20 @@ latihan TWK
 
 ---
 
+## Recommended Settings
+
+Use **Claude Sonnet 5.5** with **Extra** mode, and **turn on Thinking**.
+
+- Sonnet 5.5 is recommended because it is the latest version at the moment.
+- When a newer Sonnet than 5.5 is released, use the newer one. It must still be **Sonnet**, still **Extra** mode, and Thinking must stay on.
+
+---
+
 ## Compatibility
 
 Runs on [claude.ai](https://claude.ai) with Skills enabled.
 
-> **Note:** These skills combine Claude's **Skills** and **Visualizer** features. Both work fully on desktop and in the browser, where the interactive widget appears right inside the chat. The experience on mobile may not be optimal because of widget rendering limitations in the mobile Claude app.
+> **Note:** These skills combine Claude's **Skills** and **Visualizer** features. Both work fully on desktop and in the browser, where the interactive widget appears right inside the chat. For mobile devices, use the `mobile/` version, which is adapted to small screens.
 
 In short, Skills understands your request and prepares the questions, while the Visualizer displays them as an interactive view inside the chat. Since both need enough screen space to work well, using a browser on a laptop or computer gives the best experience.
 
